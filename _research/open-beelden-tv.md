@@ -6,7 +6,7 @@ menu: research
 thumb_image: "/uploads/spokenconversationalsearch.png"
 poster_image: "/uploads/spokenconversationalsearch.png"
 description: Access the Archive using Spoken Dialogue
-related_event:
+related_event: 
 creators:
 - Roeland Ordelman
 used_sources:
