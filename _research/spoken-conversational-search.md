@@ -6,10 +6,10 @@ menu: research
 thumb_image: "/uploads/spokenconversationalsearch.png"
 poster_image: "/uploads/spokenconversationalsearch.png"
 description: Archive Search using a Spoken Dialogue
-related_event: 
-contact:
+related_event:
+creator:
 - Roeland Ordelman
-used_sources: 
+used_sources:
 layout: research_project
 ---
 

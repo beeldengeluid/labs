@@ -6,8 +6,8 @@ menu: research
 thumb_image: "/uploads/kind_en_media.png"
 poster_image: "/uploads/kind_en_media.png"
 description: Play-full Responsible Media Interaction
-related_event: 
-Contact:
+related_event:
+creator:
 - Roeland Ordelman
 used_sources:
 - name: Kinderen in gesprek met media
