@@ -6,9 +6,9 @@ menu: research
 thumb_image: "/uploads/spokenconversationalsearch.png"
 poster_image: "/uploads/spokenconversationalsearch.png"
 description: Access the Archive using Spoken Dialogue
-related_event: 
-creators:
-- Roeland Ordelman
+related_event:
+Contact:
+- [Roeland Ordelman](rordelman@beeldengeluid.nl)
 used_sources:
 - name: Sound and Vision on Open Images
   url: http://labs.beeldengeluid.nl/datasets#dbd157b4-edb3-11e4-8099-005056a71e3a

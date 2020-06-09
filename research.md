@@ -3,6 +3,5 @@ title: Research
 position: 4
 layout: research
 menu: research
-subtitle: Be inspired by what others have researched with our datasets and code
+subtitle: Join us in our LABS with your research on ... 
 ---
-
