@@ -1,6 +1,6 @@
 ---
 title: Child-Media Interaction
-permalink: "/research/"
+permalink: "/research/3362af58-a319-11e5-9e6c-005056a71e3a"
 research_id: 3362af58-a319-11e5-9e6c-005056a71e3a
 menu: research
 thumb_image: "/uploads/kind_en_media.png"
