@@ -5,8 +5,8 @@ research_id: 3362af58-a319-11e5-9e6c-005056a71e3a
 menu: research
 thumb_image: "/uploads/kind_en_media.png"
 poster_image: "/uploads/kind_en_media.png"
-description: Play-full and Responsible Interaction with Media
-related_event: 
+description: Play-full Responsible Media Interaction
+related_event:
 creators:
 - Roeland Ordelman
 used_sources:
