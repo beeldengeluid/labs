@@ -126,8 +126,6 @@ defaults:
     type: research
   values:
     layout: research_project
-    research_id: 
-    permalink: 
     menu: 
     title: 
     website_url: 
@@ -139,7 +137,7 @@ defaults:
     related_project: 
     related_event: 
     github: 
-    creators: []
+    contacts: []
     tags: []
     organizations:
     - name: 

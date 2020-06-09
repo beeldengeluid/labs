@@ -8,10 +8,14 @@
 			</div>
 			<table class="table">
 				<tbody>
-					{% if page.creators[0] != nil %}
+					{% if page.contacts[0].name != nil %}
 					<tr>
-						<td>Creators</td>
-						<td>{{ page.creators | join:' - ' }}</td>
+						<td>Contact</td>
+						<td>
+						{% for contact in page.contacts %}
+							<a href="mailo:{{ contact.email }}">{{ contact.name }}</a><br>
+						{% endfor %}
+						</td>
 					</tr>
 					{% endif %}
 					{% if page.organizations[0].name != nil %}
