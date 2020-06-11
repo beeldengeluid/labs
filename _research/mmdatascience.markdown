@@ -11,17 +11,18 @@ thumb_image: "/uploads/datascientist.png"
 poster_image: "/uploads/datascientist.png"
 description: Creating Multimedia Data Stories
 related_project: www.clariah.nl
-contacts:
-  name: Roeland Ordelman
-  email: rordelman@beeldengeluid.nl
 organizations:
 - name: University of Amsterdam
   url: https://www.create.humanities.uva.nl/
-used_sources:
 - name: Utrecht University, Department of Media and Culture Studies
   url: https://www.uu.nl/en/organisation/department-of-media-and-culture-studies
 - name: University of Twente, Human Media Interaction
   url: https://hmi.ewi.utwente.nl
+used_sources:
+- name: 
+  url: 
+- name: 
+  url: 
 ---
 
 Data science is about analyzing data to extract useful information to better **understand** things and to tell stories about it. At the Netherlands Institute for Sound and Vision, we are interested in the stories that can be told with archival data. In particular, how we can do '**multimedia storytelling**' given that our archive consists of multimedia data (audio, video, images, text) that need special treatment in order to analyze it and extract information from it. For example, manually or automatically provide descriptions of the *pixels and samples* that make up the archive.
