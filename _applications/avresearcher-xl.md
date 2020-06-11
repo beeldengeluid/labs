@@ -9,6 +9,7 @@ tags:
 - Analysis
 - CLARIAH
 - Context Collections
+position: 14
 application_id: dbd09298-edb3-11e4-8099-005056a71e3a
 website_url: http://avresearcher.clariah.beeldengeluid.nl
 thumb_image: "/uploads/avresearcherxl_wide.png"

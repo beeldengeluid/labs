@@ -7,6 +7,7 @@ tags:
 - LOD
 - Content Enrichments
 - Interactive Television
+position: 13
 application_id: dbd0d12c-edb3-11e4-8099-005056a71e3a
 website_url: http://editortoolv2.linkedtv.eu/
 thumb_image: "/uploads/linkedtv_wide.png"

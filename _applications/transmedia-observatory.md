@@ -9,6 +9,7 @@ tags:
 - CLARIAH
 - Content Enrichments
 - Public Debates
+position: 11
 application_id: dbd0b3e0-edb3-11e4-8099-005056a71e3a
 website_url: http://trove.beeldengeluid.nl
 thumb_image: "/uploads/trove_wide.png"

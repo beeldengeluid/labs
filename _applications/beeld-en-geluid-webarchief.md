@@ -5,6 +5,7 @@ tags:
 - Speech Search
 - Digital Humanities
 - Virtual Research Environment
+position: 5
 application_id: 19b1b2ae-306c-11e5-8f19-005056a71e3a
 website_url: http://www.beeldengeluidwebarchief.nl/
 thumb_image: "/uploads/Beeldengeluidwebarchief_screenshot.jpg"

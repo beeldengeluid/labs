@@ -3,6 +3,7 @@ title: Radio.Garden
 permalink: "/application/234168c6-fcfa-11e6-a3f3-0050569ef392"
 tags:
 - radio
+position: 7
 application_id: 234168c6-fcfa-11e6-a3f3-0050569ef392
 website_url: http://radio.garden/
 thumb_image: "/uploads/radio_garden.png"

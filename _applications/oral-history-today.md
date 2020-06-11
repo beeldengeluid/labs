@@ -5,6 +5,7 @@ tags:
 - Speech Search
 - Digital Humanities
 - Virtual Research Environment
+position: 17
 application_id: 693621d8-2a1e-11e5-b980-005056a71e3a
 website_url: http://zoeken.verteldverleden.org
 thumb_image: "/uploads/VerteldVerleden-screenshot.png"

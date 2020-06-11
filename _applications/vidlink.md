@@ -6,6 +6,7 @@ tags:
 - ASR
 - Content Enrichments
 - Radio stories
+position: 3
 application_id: dbd12d5c-edb3-11e4-8099-005056a71e3a
 website_url: http://www.nadebevrijding.nl/
 thumb_image: "/uploads/vidlink_wide.png"

@@ -9,6 +9,7 @@ tags:
 - Historical Events
 - Maritime data
 - Crowdsourcing
+position: 10
 application_id: dbd0184a-edb3-11e4-8099-005056a71e3a
 website_url: http://dive.beeldengeluid.nl
 thumb_image: "/uploads/dive_wide.png"
