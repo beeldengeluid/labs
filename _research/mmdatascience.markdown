@@ -1,5 +1,5 @@
 ---
-title: Multimedia Data Storytelling
+title: Multimedia Data Science
 date: 2020-06-10 12:53:00 +02:00
 categories:
 - digital humanities
