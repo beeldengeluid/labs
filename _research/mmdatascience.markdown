@@ -30,8 +30,9 @@ Data science is about analyzing data to extract useful information to better **u
 The past years, we have been developing an infrastructure specifically for the purpose of data research and data science. It has a friendly user interface that is called the [Media Suite](https://mediasuite.clariah.nl/) but we also provide the possibility for low-level (API) access to the data to enable what we sometimes call "**programming with data**": extracting parts of the archive to pass the data through filtering and analysis pipelines you create yourselves (in a secure environment, as we are working with copyright material). For the latter, we use for instance [Jupyter Notebooks](https://jupyter.org/).
 
 Examples of topics that we are interested in:
-* Efficient strategies for information extraction from heterogeneous archival content
+* Efficient algorithms and strategies for information extraction from heterogeneous archival content
 * Telling data stories with audiovisual data
 * Cross-media information extraction
 * Using rich archival metadata to train models for information extraction  
+* How to communicate data stories using clear and engaging data visualisations
 
