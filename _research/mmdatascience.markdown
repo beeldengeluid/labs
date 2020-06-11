@@ -9,6 +9,7 @@ categories:
 website_url: https://mediasuite.clariah.nl/
 thumb_image: "/uploads/datascientist.png"
 poster_image: "/uploads/datascientist.png"
+description: Creating Multimedia Data Stories
 related_project: www.clariah.nl
 contacts:
 - Roeland Ordelman
