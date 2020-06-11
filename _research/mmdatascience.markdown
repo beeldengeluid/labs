@@ -14,6 +14,9 @@ thumb_image: "/uploads/datascientist.png"
 poster_image: "/uploads/datascientist.png"
 description: Creating Multimedia Data Stories
 related_project: www.clariah.nl
+contacts:
+- name: Roeland Ordelman
+  email: rordelman@beeldengeluid.nl
 organizations:
 - name: University of Amsterdam
   url: https://www.create.humanities.uva.nl/
