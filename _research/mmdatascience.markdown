@@ -14,9 +14,9 @@ related_project: www.clariah.nl
 organizations:
 - name: University of Amsterdam
   url: https://www.create.humanities.uva.nl/
-- name: Utrecht University, Department of Media and Culture Studies
+- name: Utrecht University
   url: https://www.uu.nl/en/organisation/department-of-media-and-culture-studies
-- name: University of Twente, Human Media Interaction
+- name: University of Twente
   url: https://hmi.ewi.utwente.nl
 used_sources:
 - name: 
