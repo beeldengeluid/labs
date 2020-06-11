@@ -18,13 +18,8 @@ Please note that in some cases the showcases require authentication for access. 
 
 #### What about Sound and Vision?
 
-[The Netherlands Institute for Sound and Vision](https://www.beeldengeluid.nl) is an advanced and trendsetting audiovisual archive that has successfully made its way into the digital realm. It maintains and provides access to over 1 million hours of television, radio, music, film and web video, making it one of the largest audiovisual archives in Europe. Sound and Vision makes their collection available online for various end-user services, including dedicated services for the creative industries, education and research. The institute operates as a visitor attraction aimed at the general public and is visited by over 250.000 people annually.
+[The Netherlands Institute for Sound and Vision](https://www.beeldengeluid.nl) is one of Europe's largest audiovisual archives that is progressively making its way into the digital realm. It maintains and provides access to over 1 million hours of television, radio, music, film and web video. Sound and Vision provides access to its collections online for various end-user services, including dedicated services for the creative industries, education and research. The institute operates as a visitor attraction aimed at the general public and is visited by over 250.000 people annually.
 
-**Our mission statement:**  
-_The Research and Development (R&D) department has their finger on the pulse of the environment in which Sound and Vision operates.  New trends, changing needs, technological developments and a dynamic social context demand an organisation that moves fluidly while gaining knowledge, expertise and innovative capacity. With a critical eye and support from a broad, international network, R&D contributes to the mission of the institute: R&D initiates, stimulates and facilitates research and development. At the same time it also collects knowledge and practical examples from inside and outside the institute and offers this to knowledge organisations, colleagues in the sector and other interested parties._
+Read about our activities on our [blog](https://www.beeldengeluid.nl/kennis/blog) or follow us on Twitter via [@benglabs](https://twitter.com/benglabs)
 
-The R&D research agenda focusses on five main themes: Access; Metadata and Context; Users; Humanities; and Preservation.
-
-Read about the activities of Sound and Vision's R&D department on our [blog](https://www.beeldengeluid.nl/kennis/blog) or follow us on Twitter via [@benglabs](https://twitter.com/benglabs)
-
-For more information about Sound and Vision R&D, please contact: [rd@beeldengeluid.nl](mailto:rd@beeldengeluid.nl)
+For more information about Sound and Vision R&D activities, please contact: [rd@beeldengeluid.nl](mailto:rd@beeldengeluid.nl)
