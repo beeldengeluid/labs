@@ -16,7 +16,13 @@ contacts:
   email: rordelman@beeldengeluid.nl
 ---
 
-Data science is about analyzing data to extract useful information to better **understand** things and to tell stories about it. At the Netherlands Institute for Sound and Vision, we are interested in the stories that can be told with archival data. In particular, how we can do '**multimedia storytelling**' given that our archive consists of multimedia data (audio, video, images, text) that need special treatment in order to analyze it and extract information from it: manually or automatically provide descriptions of the pixels and samples that make up the archive.
+Data science is about analyzing data to extract useful information to better **understand** things and to tell stories about it. At the Netherlands Institute for Sound and Vision, we are interested in the stories that can be told with archival data. In particular, how we can do '**multimedia storytelling**' given that our archive consists of multimedia data (audio, video, images, text) that need special treatment in order to analyze it and extract information from it. For example, manually or automatically provide descriptions of the *pixels and samples* that make up the archive.
 
-The past years, we have been developing an infrastructure specifically for the purpose of data research and data science. It has a friendly user interface that is called the [Media Suite](https://mediasuite.clariah.nl/) but we also provide the possibility for low-level (API) access to the data to enable what we sometimes call "**programming with data**": extracting parts of the archive to pass the data through filtering and analysis pipelines you create yourselves (in a secure environment, as we are working with copyright material).
+The past years, we have been developing an infrastructure specifically for the purpose of data research and data science. It has a friendly user interface that is called the [Media Suite](https://mediasuite.clariah.nl/) but we also provide the possibility for low-level (API) access to the data to enable what we sometimes call "**programming with data**": extracting parts of the archive to pass the data through filtering and analysis pipelines you create yourselves (in a secure environment, as we are working with copyright material). For the latter, we use for instance [Jupyter Notebooks](https://jupyter.org/).
+
+Topics that we are interested in are:
+* efficient strategies for information extraction from heterogeneous archival content
+* telling data stories with audiovisual data
+* cross-media information extraction
+* using the rich archival metadata to train models for information extraction  
 
