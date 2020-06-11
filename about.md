@@ -8,11 +8,9 @@ layout: page
 
 #### What about LABS?
 
-Sound and Vision LABS showcases tools, demos and prototypes developed by the Research & Development department of the Netherlands Institute for Sound and Vision, alone or in coproduction. You will also find Sound and Vision's open data sets on LABS and links to the code on GitHub.
+Sound and Vision LABS represent the *Research & Development* activities on a wide range of *Media Innovation* topics at the Netherlands Institute for Sound and Vision. You will find showcases of tools, demos and prototypes that have been developed in the past years with our (inter)national partners in research and industry. But also, LABS is a way to engage in new research together with us, using **real data** and related to **real-life use cases** in *media*, *cultural heritage*, *research*, *education* and *journalism*. Check-out our research pages to get an impression on what we are doing and how to collaborate with us.  
 
-The projects that are on display are either under development or in a final stage before they are taken into production.
-
-In some cases the applications require authentication for access. Please request access via the contact details on the application page.
+Please note that in some cases the showcases require authentication for access. You can request access via the contact details on the application page.
 
 ![Research & Development](/assets/images/benglabs-light.jpg)
 
