@@ -6,6 +6,9 @@ categories:
 - data journalism
 - data stories
 - infrastructures
+- data engineering
+- data visualization
+- storytelling
 website_url: https://mediasuite.clariah.nl/
 thumb_image: "/uploads/datascientist.png"
 poster_image: "/uploads/datascientist.png"
