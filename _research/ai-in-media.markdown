@@ -22,4 +22,6 @@ NISV would be very interested to collaborate with researchers and research group
 * child-speech recognition
 * violent scene detection
 
+Also, together with our partners in the Dutch media industry, we are developing **benchmark evaluations** to access quality and adequacy of AI tools such as speech recognition and computer vision.
+
 Please contact us if you are interested to work with us in our data LABS!
