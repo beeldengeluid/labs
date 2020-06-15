@@ -4,11 +4,12 @@ menu: research
 thumb_image: "/uploads/spokenconversationalsearch.png"
 poster_image: "/uploads/spokenconversationalsearch.png"
 description: Archive Search using a Spoken Dialogue
-related_event: 
 contacts:
 - name: Roeland Ordelman
   email: rordelman@beeldengeluid.nl
-used_sources: 
+organizations:
+- name: University of Twente
+  url: https://www.utwente.nl/en/eemcs/hmi/
 layout: research_project
 ---
 
