@@ -10,6 +10,10 @@ contacts:
 organizations:
 - name: Media Perspectives
   url: https://mediaperspectives.nl/
+- name: NPO Innovatie
+  url: https://innovatie.npo.nl/
+- name: 
+  url: 
 ---
 
 The Netherlands Institute for Sound and Vision is one of the largest audiovisual archives in Europe with around one million hours of content and still growing. For parts of this media collections, there are also descriptions available, ranging from manually generated topic labels to subtitles for the hearing impaired. Using these labels (and combinations of labels) interesting data sets can be created for machine learning applications. Also, NISV is experimenting with 'crowdsourcing' approaches to label content, either via a Mechanical Turk approach or by eliciting visitors of the Museum to provide ground-truth information in a play-full manner. 
