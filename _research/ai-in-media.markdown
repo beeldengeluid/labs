@@ -17,5 +17,6 @@ NISV would be very interested to collaborate with researchers and research group
 * sentiment analysis
 * sign language recognition
 * child-speech recognition
+* violent scene detection
 
 Please contact us if you are interested to work with us in our data LABS!
