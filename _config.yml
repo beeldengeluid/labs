@@ -148,7 +148,7 @@ defaults:
       url: 
     projects:
     - name: 
-      url:
+      url: 
 - scope:
     path: ''
     type: projects
