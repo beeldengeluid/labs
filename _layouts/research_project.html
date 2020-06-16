@@ -38,6 +38,26 @@
 						</td>
 					</tr>
 					{% endif %}
+					{% if page.partners[0] != nil %}
+					<tr>
+						<td nowrap="nowrap">Project partners</td>
+						<td>
+							{% for partner in page.partners %}
+							<a class="btn btn-xs btn-default">{{ partner }}</a>
+							{% endfor %}
+						</td>
+					</tr>
+					{% endif %}
+					{% if page.projects[0].name != nil %}
+					<tr>
+						<td>Projects</td>
+						<td>
+						{% for proj in page.projects %}
+							<a href="{{ proj.url }}">{{ proj.name }}</a><br>
+						{% endfor %}
+					</td>
+					</tr>
+					{% endif %}
 					{% if page.related_project != nil %}
 					<tr>
 						<td>Related project</td>

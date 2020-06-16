@@ -139,12 +139,16 @@ defaults:
     github: 
     contacts: []
     tags: []
+    partners: []
     organizations:
     - name: 
       url: 
     used_sources:
     - name: 
       url: 
+    projects:
+    - name: 
+      url:
 - scope:
     path: ''
     type: projects
