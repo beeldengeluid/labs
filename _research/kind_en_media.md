@@ -1,5 +1,8 @@
 ---
 title: Child-Media Interaction
+categories:
+- IR for kids
+- responsable AI
 menu: research
 thumb_image: "/uploads/kind_en_media.png"
 poster_image: "/uploads/kind_en_media.png"
