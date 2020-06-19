@@ -21,4 +21,12 @@ used_sources:
 layout: research_project
 ---
 
-more to come
+How children interact with media has our special attention. We are specifically interested in how can we provide children with search and browse facilities for video content that is both play-full and responsible. This includes topics such as: 
+
+* interacting with children via (embodied) agents, robots and chatbots
+* aspects of trust with respect to the provider (archive) or contents of media
+* media literacy
+* can an archive play a mediator role towards children with respect to content
+* can we automatically prevent content to be shown to children below a certain age (e.g., via violent scene detection)
+
+Please get in touch if you are interested to work with us on these topics. 
