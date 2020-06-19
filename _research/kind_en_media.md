@@ -18,4 +18,4 @@ used_sources:
 layout: research_project
 ---
 
-Instead of typing keywords in a search bar, we'd rather have a chat with a (virtual) librarian and express our 'information need' in a conversation. At Netherlands Institute for Sound and Vision, we investigate several use cases in the area of Spoken Conversational Search.  
+more to come
