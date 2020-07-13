@@ -15,8 +15,7 @@ organizations:
 - name: 
   url: 
 publications:
-  Title: On the effects of using speech transcripts and subtitles to detect topic
-    shifts in news broadcasts, Sahra Mohamed (2020)
+- title: On the effects of using speech transcripts and subtitles to detect topic shifts in news broadcasts, Sahra Mohamed (2020)
   url: 
 ---
 

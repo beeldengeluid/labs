@@ -58,6 +58,16 @@
 					</td>
 					</tr>
 					{% endif %}
+					{% if page.publications[0].title != nil %}
+					<tr>
+						<td>Publications</td>
+						<td>
+						{% for proj in page.publications %}
+							<a href="{{ proj.url }}">{{ proj.title }}</a><br>
+						{% endfor %}
+					</td>
+					</tr>
+					{% endif %}
 					{% if page.related_project != nil %}
 					<tr>
 						<td>Related project</td>

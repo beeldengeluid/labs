@@ -102,7 +102,7 @@ defaults:
     layout: example
     example_id: 
     permalink: 
-    menu: 
+    menu: examples
     title: 
     website_url: 
     info_url: 
@@ -126,7 +126,7 @@ defaults:
     type: research
   values:
     layout: research_project
-    menu: 
+    menu: research
     title: 
     website_url: 
     info_url: 
@@ -148,6 +148,9 @@ defaults:
       url: 
     projects:
     - name: 
+      url:
+    publications:
+    - title: 
       url: 
 - scope:
     path: ''
@@ -156,7 +159,7 @@ defaults:
     layout: project
     project_id: 
     permalink: 
-    menu: 
+    menu: projects
     title: 
     website_url: 
     thumb_image: 

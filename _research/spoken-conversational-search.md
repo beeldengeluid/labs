@@ -10,7 +10,6 @@ contacts:
 organizations:
 - name: University of Twente
   url: https://www.utwente.nl/en/eemcs/hmi/
-layout: research_project
 ---
 
 Instead of typing keywords in a search bar, we would rather have a chat with a (virtual) librarian and express our 'information need' or interest in certain content in the archive in a conversation. At Netherlands Institute for Sound and Vision, we investigate several use cases in the area of *Spoken Conversational Search* as a means to guide access to our rich but also large and heterogeneous audiovisual archive. In our **LABS** environment, we have search APIs built on top of indices of rich metadata that can be connected to a dialogue system that uses keyboard or speech input to communicate with users online and in our museum. Research questions we can think of:
