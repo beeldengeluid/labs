@@ -3,7 +3,7 @@ title: Conversational AI
 menu: research
 thumb_image: "/uploads/spokenconversationalsearch.png"
 poster_image: "/uploads/spokenconversationalsearch.png"
-description: Archive Search using a Spoken Dialogue
+description: Archive Search using a (Spoken) Dialogue
 contacts:
 - name: Roeland Ordelman
   email: rordelman@beeldengeluid.nl
