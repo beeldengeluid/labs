@@ -16,7 +16,8 @@ organizations:
   url: 
 publications:
 - title: On the effects of using speech transcripts and subtitles to detect topic
-    shifts in news broadcasts, Sahra Mohamed (2020)
+    shifts in news broadcasts, Sahra Mohamed, BSc Artificial Intelligence at Utrecht
+    University (2020)
   url: https://publications.beeldengeluid.nl/pub/1802
 ---
 
