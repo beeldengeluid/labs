@@ -1,5 +1,5 @@
 ---
-title: Multimedia Data Science
+title: Tools for Multimedia Data Science
 date: 2020-06-10 12:53:00 +02:00
 categories:
 - digital humanities
@@ -12,7 +12,8 @@ categories:
 website_url: https://mediasuite.clariah.nl/
 thumb_image: "/uploads/datascientist.png"
 poster_image: "/uploads/datascientist.png"
-description: Creating Multimedia Data Stories
+description: Usability, Design and Evaluation of Applications for Multimedia Data
+  Science
 related_project: www.clariah.nl
 contacts:
 - name: Roeland Ordelman
@@ -31,9 +32,7 @@ Data science is about analyzing data to extract useful information to better **u
 The past years, we have been developing an infrastructure specifically for the purpose of data research and data science. It has a friendly user interface that is called the [Media Suite](https://mediasuite.clariah.nl/) but we also provide the possibility for low-level (API) access to the data to enable what we sometimes call "**programming with data**": extracting parts of the archive to pass the data through filtering and analysis pipelines you create yourselves (in a secure environment, as we are working with copyright material). For the latter, we use for instance [Jupyter Notebooks](https://jupyter.org/).
 
 Examples of topics that we are interested in:
-* Efficient algorithms and strategies for information extraction from heterogeneous archival content
-* Telling data stories with audiovisual data
-* Cross-media information extraction
-* Using rich archival metadata to train models for information extraction  
-* How to communicate data stories using clear and engaging data visualisations
+* Efficient algorithms and strategies for information extraction from heterogeneous, multimedia archival content to enable multimedia data science for scholars or journalists 
+* Design and usability of data science applications such as the Media Suite for specific tasks 
+* How to tell data stories with audiovisual data, e.g., how to communicate data stories using clear and engaging data visualisations
 
