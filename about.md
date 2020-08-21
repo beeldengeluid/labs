@@ -8,9 +8,11 @@ layout: page
 
 #### What about LABS?
 
-Sound and Vision LABS represent the *Research & Development* activities on a wide range of *Media Innovation* topics at the Netherlands Institute for Sound and Vision. You will find showcases of tools, demos and prototypes that have been developed in the past years with our (inter)national partners in research and industry. But also, LABS is a way to engage in new research together with us, using **real data** and related to **real-life use cases** in *media*, *cultural heritage*, *research*, *education* and *journalism*. Check-out our research pages to get an impression on what we are doing and how to collaborate with us.  
+Sound and Vision LABS represent our *Research & Innovation* activities. On a wide range of topics, we put media innovation into practice by connecting new technologies and innovative ideas to **real data** ("big multimedia data") and evaluating them in **real-life use scenarios** in *media*, *cultural heritage*, *research*, *education* and *journalism*, together with **real users**. By doing so, we have been facilitating (inter)national researchers to help bring forward innovations in the media domain for many years. At the same time, working with great minds with great ideas and by testing those ideas in practice helps us to remain a modern-day archive that persistently finds useful ways to open up, explore and exploit the multifaceted richness of our large multimedia archives. 
 
-Please note that in some cases the showcases require authentication for access. You can request access via the contact details on the application page.
+The labs.beeldengeluid.nl website serves as the umbrella website for all our LABS activities, the ones from the past and LABS that are currently active. You will find showcases of tools, demos and prototypes that have been developed in the past years with our (inter)national partners in research and industry. Please note that in some cases the showcases require authentication for access. You can request access via the contact details on the application page.
+
+We are delighted to be able to collaborate with our partners in academia and higher education in a variety of research and innovation projects funded by national and European funding schemes. Check-out our research pages to get an impression on what we are doing and how to collaborate with us.  
 
 ![Research & Development](/assets/images/benglabs-light.jpg)
 
@@ -22,4 +24,4 @@ Please note that in some cases the showcases require authentication for access. 
 
 Read about our activities on our [blog](https://www.beeldengeluid.nl/kennis/blog) or follow us on Twitter via [@benglabs](https://twitter.com/benglabs)
 
-For more information about Sound and Vision R&D activities, please contact: [rd@beeldengeluid.nl](mailto:rd@beeldengeluid.nl)
+For more information about Sound and Vision Lab activities, please contact: [rordelman@beeldengeluid.nl](mailto:rordelman@beeldengeluid.nl)
