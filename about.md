@@ -14,7 +14,9 @@ The labs.beeldengeluid.nl website serves as the umbrella website for all our LAB
 
 We are delighted to be able to collaborate with our partners in academia and higher education in a variety of research and innovation projects funded by national and European funding schemes. Check-out our research pages to get an impression on what we are doing and how to collaborate with us.  
 
-![Research & Development](/assets/images/benglabs-light.jpg)
+For more information about Sound and Vision Lab activities, please contact: [rordelman@beeldengeluid.nl](mailto:rordelman@beeldengeluid.nl)
+
+![LABS](/uploads/IMG_7152%20(1).JPG)
 
 <!-- colsplit -->
 
@@ -24,4 +26,4 @@ We are delighted to be able to collaborate with our partners in academia and hig
 
 Read about our activities on our [blog](https://www.beeldengeluid.nl/kennis/blog) or follow us on Twitter via [@benglabs](https://twitter.com/benglabs)
 
-For more information about Sound and Vision Lab activities, please contact: [rordelman@beeldengeluid.nl](mailto:rordelman@beeldengeluid.nl)
+
