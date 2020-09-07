@@ -3,7 +3,7 @@ title: AI in Media
 date: 2020-06-15 10:44:00 +02:00
 thumb_image: "/uploads/media.png"
 poster_image: "/uploads/media.png"
-description: Using media for machine learning
+description: Using media for machine learning, using machine learning for media
 contacts:
 - name: Roeland Ordelman
   email: rordelman@beeldengeluid.nl
